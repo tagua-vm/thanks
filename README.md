@@ -6,6 +6,7 @@ In alphabetic order:
   * ![stof](https://github.com/stof.png?size=32) Christophe Coevoet
   * ![Geal](https://github.com/Geal.png?size=32) Geoffroy Couprie
   * ![Hywan](https://github.com/Hywan.png?size=32) Ivan Enderlin
+  * ![fflorent](https://github.com/fflorent.png?size=32) Florent Fayolle
   * ![vonglasow](https://github.com/vonglasow.png?size=32) Alexis von Glasow
   * ![benaryorg](https://github.com/benaryorg.png?size=32) Katze
   * ![johnnypeck](https://github.com/johnnypeck.png?size=32) Johnny Peck
